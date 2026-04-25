@@ -126,9 +126,7 @@ The findings suggest that many organizations likely adjusted workforce size due 
 
 ---
 
-# 📷 Dashboard Preview
 
-> Add your dashboard screenshots here
 # 📷 Dashboard Preview
 
 ## 🌍 Main Dashboard Overview
