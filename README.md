@@ -133,17 +133,17 @@ The findings suggest that many organizations likely adjusted workforce size due 
 
 ## 🌍 Main Dashboard Overview
 
-![Main Dashboard](images/d1.png)
+![Main Dashboard](Images/d1.png)
 
 ## 🇺🇸 Country Filter View (United States)
 
-![United States View](images/d2.png)
+![United States View](Images/d2.png)
 
 ## 🇮🇳 Country Filter View (India)
 
-![India View](images/d3.png)
+![India View](Images/d3.png)
 
 ## 📊 Industry & Company Analysis
 
-![Industry Analysis](images/d4.png)
+![Industry Analysis](Images/d4.png)
 
